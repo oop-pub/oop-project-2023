@@ -8,7 +8,7 @@
   "user" : "emily30",
   "timestamp" : 3215,
   "message" : "Search returned 5 results",
-  "results" : [ "Shape of You", "Stairway to Heaven", "Dream On", "Black Dog", "Sad But True" ]
+  "results" : [ "Shape of You", "Dream On", "Black Dog", "Sad But True", "Maps" ]
 }, {
   "command" : "select",
   "user" : "emily30",
