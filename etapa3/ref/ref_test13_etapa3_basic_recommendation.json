@@ -99,7 +99,7 @@
       "merchRevenue" : 0.0,
       "songRevenue" : 0.0,
       "ranking" : 1,
-      "mostProfitableSong" : null
+      "mostProfitableSong" : "N/A"
     }
   }
 } ]
