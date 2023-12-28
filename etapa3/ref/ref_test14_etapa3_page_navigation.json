@@ -1,4 +1,9 @@
 [ {
+  "command" : "addAlbum",
+  "user" : "Pink Floyd",
+  "timestamp" : 1,
+  "message" : "The username Pink Floyd doesn't exist."
+}, {
   "command" : "addUser",
   "user" : "TED",
   "timestamp" : 10,
@@ -105,7 +110,7 @@
 }, {
   "command" : "updateRecommendations",
   "user" : "ghiu",
-  "timestamp" : 135,
+  "timestamp" : 152,
   "message" : "The recommendations for user ghiu have been updated successfully."
 }, {
   "command" : "loadRecommendations",
@@ -117,8 +122,8 @@
   "user" : "ghiu",
   "timestamp" : 165,
   "stats" : {
-    "name" : "Sad But True",
-    "remainedTime" : 314,
+    "name" : "Radio Ga Ga",
+    "remainedTime" : 334,
     "repeat" : "No Repeat",
     "shuffle" : false,
     "paused" : false
@@ -142,7 +147,7 @@
   "user" : "ghiu",
   "command" : "printCurrentPage",
   "timestamp" : 205,
-  "message" : "Liked songs:\n\t[Bohemian Rhapsody, Sad But True]\n\nFollowed playlists:\n\t[]\n\nSong recommendations:\n\t[Sad But True]\n\nPlaylists recommendations:\n\t[]"
+  "message" : "Liked songs:\n\t[Bohemian Rhapsody, Radio Ga Ga]\n\nFollowed playlists:\n\t[]\n\nSong recommendations:\n\t[Radio Ga Ga]\n\nPlaylists recommendations:\n\t[]"
 }, {
   "command" : "previousPage",
   "user" : "ghiu",
@@ -182,7 +187,7 @@
   "user" : "ghiu",
   "command" : "printCurrentPage",
   "timestamp" : 265,
-  "message" : "Liked songs:\n\t[Bohemian Rhapsody, Sad But True]\n\nFollowed playlists:\n\t[]\n\nSong recommendations:\n\t[Sad But True]\n\nPlaylists recommendations:\n\t[]"
+  "message" : "Liked songs:\n\t[Bohemian Rhapsody, Radio Ga Ga]\n\nFollowed playlists:\n\t[]\n\nSong recommendations:\n\t[Radio Ga Ga]\n\nPlaylists recommendations:\n\t[]"
 }, {
   "command" : "nextPage",
   "user" : "ghiu",
@@ -191,16 +196,10 @@
 }, {
   "command" : "endProgram",
   "result" : {
-    "Metallica" : {
-      "merchRevenue" : 0.0,
-      "songRevenue" : 0.0,
-      "ranking" : 1,
-      "mostProfitableSong" : "N/A"
-    },
     "Queen" : {
       "merchRevenue" : 0.0,
       "songRevenue" : 0.0,
-      "ranking" : 2,
+      "ranking" : 1,
       "mostProfitableSong" : "N/A"
     }
   }
