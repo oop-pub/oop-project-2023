@@ -51,7 +51,22 @@
         "city": "Phoenix"
       }
     ],
-    "songs": [],
+    "songs": [
+	  {
+        "name": "Ad Break",
+        "duration": 10,
+        "album": "Buy Premium",
+        "tags": [
+          "#ad",
+          "#globalwaves",
+          "#premium"
+        ],
+        "lyrics": "Buy GlobalWaves Premium, please, I beg you",
+        "genre": "advertisement",
+        "releaseYear": 2023,
+        "artist": "GlobalWaves"
+      }
+	],
     "podcasts": [
       {
         "name": "The Joe Rogan Experience",
